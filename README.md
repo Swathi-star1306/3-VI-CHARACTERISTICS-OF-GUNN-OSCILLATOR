@@ -69,9 +69,9 @@ The experiment successfully demonstrates the negative resistance behavior of the
 
 **Precautions:**
 
-•	Check the connections before switching on the kit.
-•	Connections should be done properly.
-•	Observation should be taken properly.
+   •	Check the connections before switching on the kit.
+   •	Connections should be done properly.
+   •	Observation should be taken properly.
 
 **Result:**
 
